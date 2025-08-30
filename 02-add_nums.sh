@@ -1,5 +1,6 @@
 #!/bin/sh
 
+echo "this is the second edit from claudio sandrio"
 echo "Enter your first number"
 read first
 echo "Enter your second number"
