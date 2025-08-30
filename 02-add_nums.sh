@@ -1,6 +1,9 @@
 #!/bin/sh
 
 echo "This file is updated by Claudio Sandrio"
+
+echo "this is the second edit from claudio sandrio"
+echo "Im keeping both changes to solve the conflict"
 echo "Enter your first number"
 read first
 echo "Enter your second number"
