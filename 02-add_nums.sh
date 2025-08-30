@@ -1,5 +1,6 @@
 #!/bin/sh
 
+echo "This file is updated by Claudio Sandrio"
 echo "Enter your first number"
 read first
 echo "Enter your second number"
